@@ -1,4 +1,4 @@
-electronicsgarden.github.io
+Electronics Garden
 ===========================
 
 GitHub page for ElectronicsGarden
