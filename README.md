@@ -1,4 +1,1 @@
-Electronics Garden
-===========================
-
-GitHub page for ElectronicsGarden
+Electronics Garden is a place where ideas come to grow. 
